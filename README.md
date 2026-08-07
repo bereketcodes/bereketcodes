@@ -71,7 +71,7 @@ My work is driven by **አገልግሎት (Service)** the conviction that a deve
 
 <p align="left">
   <img 
-    src="https://github-readme-streak-stats-eight.vercel.app?user=hena-yaris&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=bereketcodes&theme=tokyonight&hide_border=true"
     height="150"
   />
 </p>
