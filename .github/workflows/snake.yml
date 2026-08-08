@@ -58,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: bereketcodes/bereketcodes
+          github_user_name: bereketcodes
 
 
           # Define the output files and their configurations
