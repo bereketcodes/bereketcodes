@@ -141,7 +141,6 @@ Target: 2027
 **Become a remote Agentic AI Engineer → build products → found a software company.**
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
